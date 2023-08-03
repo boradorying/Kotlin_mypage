@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">kotlin_Login</string>
+    <string name="button_text_clicked">종료 😀</string>
+    <string name="button_text_not_clicked">종료😍</string>
 </resources>

@@ -5,6 +5,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="@drawable/yazasu"
     tools:context=".HomeActivity"
     android:orientation="vertical">
 
@@ -93,10 +94,14 @@
         android:layout_marginTop="50dp"
         android:layout_marginLeft="30dp"
         android:layout_marginRight="30dp"
-        android:background="@drawable/radius"
+        android:background="@drawable/selector_button"
+        android:drawableEnd="@drawable/icon_seletor"
+        android:paddingStart="130dp"
+        android:paddingEnd="130dp"
         android:fontFamily="@font/bmjua_ttf"
         android:text="종료"
         android:textSize="20sp" />
+
 
 
 </LinearLayout>

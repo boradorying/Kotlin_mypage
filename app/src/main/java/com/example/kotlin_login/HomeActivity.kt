@@ -5,7 +5,7 @@ import android.os.Bundle
 import android.widget.Button
 import android.widget.ImageView
 import android.widget.TextView
-//gkdl
+
 class HomeActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
@@ -24,7 +24,7 @@ class HomeActivity : AppCompatActivity() {
 
         val textID = findViewById<TextView>(R.id.textUserID)
 
-        val userName = intent.getStringExtra("USERNAME")
+        val userName = intent.getStringExtra("USERID")
 
         textID.text ="아이디 : ${userName}"
 
