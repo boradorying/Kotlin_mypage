@@ -7,13 +7,13 @@
 ## **✅화면 구성**
 
 ### **1️⃣SignIn 화면**
-![1](https://github.com/boradorying/Kotlin_mypage/assets/136980408/dec5f4ab-eeb8-4e44-8f57-986a8047924c)
+![2](https://github.com/boradorying/Kotlin_mypage/assets/136980408/2dd222c6-c90b-437e-b85c-9f32972811c8)
 
 로그인 화면은 앱을 실행했을 때 처음 나타나는 화면입니다. 이미지뷰, 텍스트뷰, 에딧뷰로 구성되어 있으며, 사용자는 여기서 자신의 아이디와 비밀번호를 입력하여 로그인할 수 있습니다.
 
 ### **2️⃣SignUp 화면**
-![2](https://github.com/boradorying/Kotlin_mypage/assets/136980408/2dd222c6-c90b-437e-b85c-9f32972811c8)
 
+![1](https://github.com/boradorying/Kotlin_mypage/assets/136980408/dec5f4ab-eeb8-4e44-8f57-986a8047924c)
 회원가입을 위한 화면으로, 여기서 입력한 아이디와 비밀번호는 SignIn 화면으로 정보가 전달되어 별도의 입력 없이 로그인이 가능합니다. 또한 이미지뷰, 텍스트뷰, 에딧뷰로 구성되어  되어있습니다.
 
 ### **3️⃣Home 화면**
